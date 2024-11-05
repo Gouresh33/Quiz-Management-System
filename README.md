@@ -1,19 +1,34 @@
-##microproject of college 
-##quiz system
-made by 
-Ishan Waghela
-Gouresh Parab
-##licence
-MIT LICENCE
+# Quiz Management System
+
+## About
+A college microproject implementing a quiz system in C++. The system allows students to take multiple choice quizzes and saves their results to a file.
+
+## Features
+- Multiple choice questions with 4 options
+- Student name and roll number tracking 
+- Score calculation and percentage
+- Results saved to file
+- Support for multiple students taking quiz
+
+## Authors
+- Ishan Waghela
+- Gouresh Parab
+
+## License
+MIT License
+
 Copyright (c) 2024 
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
+
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
